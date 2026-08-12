@@ -14,15 +14,17 @@
 ## Architecture
 
 - [ ] Create `components/`
-- [ ] Create `data/`
-- [ ] Create `locales/`
+- [x] Create `data/`
+- [x] Create `locales/`
 - [ ] Create `styles/`
 - [ ] Create `utils/`
-- [ ] Define resume data types
-- [ ] Define locale types
-- [ ] Implement English locale
-- [ ] Implement Spanish locale
-- [ ] Validate locale consistency
+- [x] Define resume data types
+- [x] Define locale types
+- [x] Define resume source data
+- [x] Derive typed resume IDs
+- [x] Implement English locale
+- [x] Implement Spanish locale
+- [x] Validate locale consistency
 
 ## Resume rendering
 
