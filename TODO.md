@@ -16,7 +16,7 @@
 - [x] Create `components/`
 - [x] Create `data/`
 - [x] Create `locales/`
-- [ ] Create `styles/`
+- [x] Create `styles/`
 - [x] Create `utils/`
 - [x] Define resume data types
 - [x] Define locale types
@@ -38,11 +38,11 @@
 
 ## Print layout
 
-- [ ] Create A4 layout
-- [ ] Add print-specific CSS
-- [ ] Verify one-page layout
-- [ ] Verify links remain clickable
-- [ ] Verify text remains selectable
+- [x] Create A4 layout
+- [x] Add print-specific CSS
+- [x] Verify one-page layout
+- [x] Verify links remain clickable
+- [x] Verify text remains selectable
 
 ## PDF generation
 

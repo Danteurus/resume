@@ -1,0 +1,45 @@
+:root {
+  color: #1f2933;
+  background: #e5e7eb;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10pt;
+  line-height: 1.4;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.resume {
+  width: 210mm;
+  min-height: 297mm;
+  margin: 24px auto;
+  padding: 14mm;
+  background: #fff;
+  box-shadow: 0 2px 16px rgb(0 0 0 / 15%);
+}
+
+.resume h1,
+.resume h2,
+.resume h3,
+.resume p {
+  margin-top: 0;
+}
+
+.resume a {
+  color: inherit;
+}
+
+@media screen and (max-width: 210mm) {
+  .resume {
+    width: 100%;
+    min-height: 100vh;
+    margin: 0;
+    padding: 8vw;
+    box-shadow: none;
+  }
+}

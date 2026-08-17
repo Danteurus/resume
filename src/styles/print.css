@@ -1,0 +1,24 @@
+@page {
+  size: A4;
+  margin: 0;
+}
+
+@media print {
+  :root {
+    background: #fff;
+  }
+
+  .resume {
+    margin: 0;
+    box-shadow: none;
+  }
+
+  .resume a {
+    text-decoration: none;
+  }
+
+  .resume-section,
+  article {
+    break-inside: avoid;
+  }
+}
