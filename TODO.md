@@ -46,12 +46,12 @@
 
 ## PDF generation
 
-- [ ] Install Playwright
-- [ ] Generate English PDF
-- [ ] Generate Spanish PDF
-- [ ] Add PDF generation npm script
-- [ ] Validate page count
-- [ ] Validate text extraction
+- [x] Install Playwright
+- [x] Generate English PDF
+- [x] Generate Spanish PDF
+- [x] Add PDF generation npm script
+- [x] Validate page count
+- [x] Validate text extraction
 
 ## Resume content
 
