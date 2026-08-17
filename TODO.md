@@ -13,11 +13,11 @@
 
 ## Architecture
 
-- [ ] Create `components/`
+- [x] Create `components/`
 - [x] Create `data/`
 - [x] Create `locales/`
 - [ ] Create `styles/`
-- [ ] Create `utils/`
+- [x] Create `utils/`
 - [x] Define resume data types
 - [x] Define locale types
 - [x] Define resume source data
@@ -28,13 +28,13 @@
 
 ## Resume rendering
 
-- [ ] Create `App`
-- [ ] Create resume header
-- [ ] Create summary section
-- [ ] Create experience section
-- [ ] Create projects section
-- [ ] Create technical skills section
-- [ ] Create education section
+- [x] Create `App`
+- [x] Create resume header
+- [x] Create summary section
+- [x] Create experience section
+- [x] Create projects section
+- [x] Create technical skills section
+- [x] Create education section
 
 ## Print layout
 
